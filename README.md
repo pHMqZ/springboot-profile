@@ -1,4 +1,4 @@
-<h1> SpringBoot: Profiles e configuirações</h1>
+<h1> SpringBoot: Profiles e configurações</h1>
 
 
 <h2>Projeto do curso da Digital Innovation One - Spring Boot: Profiles e configurações</h2>
